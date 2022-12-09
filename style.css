@@ -1,0 +1,27 @@
+body{
+    background-color: #EF233C;
+    border: 2px solid #EDF2F4;
+    padding: 10px;
+}
+.title{
+    color: #2B2D42;
+    background-color: #8D99AE ;
+    border: #EDF2F4;
+    padding: 10px;
+}
+.title div{
+    width :100%;
+    top: 0;
+}
+
+.content{
+    background-color: #EF233C;
+    border: 2px solid #EDF2F4;
+}
+#footer{
+    background-color: #8D99AE;
+    color: #2B2D42;
+    font-weight: bold;
+    border: 2px solid #EDF2F4;
+    padding:5px;
+}
